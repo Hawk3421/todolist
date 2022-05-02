@@ -1,0 +1,22 @@
+{
+  "name": "todolist-v2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "17.7.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lodash": ">=4.17.19",
+    "mongoose": "^5.9.21"
+  },
+  "devDependencies": {},
+  "description": ""
+}
